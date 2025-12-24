@@ -68,6 +68,7 @@ The results can help college event organizers improve planning, engagement, and 
 ## 🔗 Google Colab Notebook
 
 You can view and run the notebook using Google Colab here:  
-[Open in Google Colab]((https://colab.research.google.com/drive/1L7HCliPb7MqNYVDmWIHo2duPSnx9DIPR?usp=sharing))
+[Open in Google Colab]
+((https://colab.research.google.com/drive/1L7HCliPb7MqNYVDmWIHo2duPSnx9DIPR?usp=sharing))
 
 
