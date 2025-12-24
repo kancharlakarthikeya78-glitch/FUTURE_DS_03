@@ -2,6 +2,8 @@
 
 Name: K.KARTHIKEYA
 
+Mail: kancharlakarthikeya78@gmail.com
+
 # College Event Feedback Analysis  
 ### Future Interns – Data Science & Analytics Internship (Task 3)
 
